@@ -22,3 +22,4 @@ Minecraft Server program = Paper Bukkit
 기타
 - http://chobojjal.kro.kr/ 로 웹 서버 접속가능
 - 기기 발열과 소음 때문에 자주 안켬
+- 리눅스 명령어 숙지 목적
